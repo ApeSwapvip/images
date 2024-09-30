@@ -1,0 +1,33 @@
+{
+  "name": "ApeSwap Tokens",
+  "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/tokens/monkey.png",
+  "keywords": [
+    "APE",
+    "defi",
+    "ethereum",
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 33111,
+      "address": "0x49DE9A6Ff0F458651c1E837bd4F60a809B5cBf4d",
+      "decimals": 18,
+      "name": "ApeSwap",
+      "symbol": "MONKEY",
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/tokens/monkey.png"
+    },
+    {
+      "chainId": 33111,
+      "address": "0x852ECf945822a000B0370112b7427e1273779b90",
+      "decimals": 18,
+      "name": "Wrapped APE",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/tokens/ape.png"
+    }
+  ],
+  "timestamp": "2024-06-03T12:00:00+00:00"
+}
