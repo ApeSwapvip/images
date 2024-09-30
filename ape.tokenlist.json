@@ -16,7 +16,7 @@
       "chainId": 33111,
       "address": "0x49DE9A6Ff0F458651c1E837bd4F60a809B5cBf4d",
       "decimals": 18,
-      "name": "ApeSwap",
+      "name": "MonkeySwap",
       "symbol": "MONKEY",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/monkey.png"
     },
