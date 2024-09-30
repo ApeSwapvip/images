@@ -18,7 +18,7 @@
       "decimals": 18,
       "name": "ApeSwap",
       "symbol": "MONKEY",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/tokens/monkey.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/monkey.png"
     },
     {
       "chainId": 33111,
@@ -26,7 +26,7 @@
       "decimals": 18,
       "name": "Wrapped APE",
       "symbol": "ETH",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/tokens/ape.png"
+      "logoURI": "https://raw.githubusercontent.com/ApeSwapvip/images/main/ape.png"
     }
   ],
   "timestamp": "2024-06-03T12:00:00+00:00"
